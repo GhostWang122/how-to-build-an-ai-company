@@ -1,6 +1,6 @@
 <div align="center">
 
-# How We Deployed an AI-Native Company
+# AI 公司架构如何搭建 · How to Build an AI-Native Company
 
 **The operating architecture of AstroAndCharm — how the company was structured, and how work actually gets executed inside it, in detail.**
 
@@ -158,7 +158,7 @@ Vision: *in ten years, the first stop worldwide for anyone buying a meaningful b
 ## 📂 Repository Structure
 
 ```text
-astroandcharm-handbook/
+how-to-build-an-ai-company/
 ├── README.md                    # This deployment record
 ├── README.zh-CN.md              # 中文版
 ├── LICENSE.md                   # CC BY 4.0 — reuse with attribution
