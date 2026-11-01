@@ -151,7 +151,7 @@ The authorization floor the whole system runs on (settled before scale-up):
 6. **Product is the purpose, content is the means** — content earns trust; the product is the business.
 7. **Support people, never lower the bar** — corrections are direct; trust is not withdrawn afterwards.
 
-Vision: *in ten years, the first stop worldwide for anyone buying a meaningful bracelet — a company with no office and no location binding, where content assets and an AI collaboration system sell to any country, around the clock.*
+Vision: *set by the founder, in one sentence — where this company will stand in ten years, and what it will look like when it gets there. Write yours before you scale; the whole authorization system in this handbook hangs on it. (Our own vision is kept in the private handbook.)*
 
 ---
 
